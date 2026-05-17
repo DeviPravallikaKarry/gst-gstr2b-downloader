@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.pyc
+
+GST_Downloads/
+Reports/
+
+.env
+*.log
+
+users.xlsx
+real_users.xlsx
+*_users.xlsx
+!sample_users.xlsx
